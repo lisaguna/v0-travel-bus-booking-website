@@ -1,30 +1,49 @@
-# Travel bus booking website
+# 🚌 LyFly – Bus Booking Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+LyFly is an AI-powered bus booking website that allows users to search buses, view schedules, and book tickets easily through a clean and user-friendly interface.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/cs23106-9933s-projects/v0-travel-bus-booking-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/c3Gst0SJWTz)
+---
 
-## Overview
+## 📌 Overview
+LyFly is built using the **v0.dev AI tool** and deployed automatically using **Vercel**.  
+The project demonstrates a real-world travel booking system suitable for college and portfolio use.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This repository stays in sync with the deployed application created via v0.dev.
 
-## Deployment
+---
 
-Your project is live at:
+## ✨ Features
+- Search buses by source and destination  
+- View bus timings and details  
+- Seat availability display  
+- Simple booking interface  
+- Responsive design (Laptop & Mobile)  
+- Fast and clean UI  
 
-**[https://vercel.com/cs23106-9933s-projects/v0-travel-bus-booking-website](https://vercel.com/cs23106-9933s-projects/v0-travel-bus-booking-website)**
+---
 
-## Build your app
+## 🛠️ Built With
+- HTML  
+- CSS  
+- JavaScript  
+- v0.dev AI Tool  
+- Vercel (Deployment)  
+- GitHub  
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/c3Gst0SJWTz](https://v0.app/chat/c3Gst0SJWTz)**
+## 🚀 Deployment
+The project is live and accessible online.
 
-## How It Works
+🔗 **Live Website:**  
+(Add your Vercel live link here)
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📂 How It Works
+1. User enters source and destination  
+2. Available buses are displayed  
+3. User selects bus and views details  
+4. Booking process is completed  
+
+---
